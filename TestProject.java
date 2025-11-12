@@ -3,5 +3,9 @@ public class TestProject{
 		System.out.println("stuff");
 
 	}
+	public void printname(String name){
+		System.out.println(name);
+
+	}
 
 }
